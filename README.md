@@ -1,7 +1,7 @@
 # Empty Rooms, Lost Revenue: Predicting Hotel Booking Cancellations
 
 Using booking data to identify high-risk cancellations and help hotels reduce empty rooms and lost revenue.
-https://github.com/jackiehelle/hotel-cancellation-predictivemodel
+
 ## The Business Problem
 
 Last-minute booking cancellations are a major challenge for hotels. When guests cancel close to their arrival date, it can be difficult to refill those rooms in time, leading to lost revenue and unnecessary operational stress. By understanding which reservations are more likely to cancel, hotels can take proactive steps, such as sending reminders or adjusting booking policies, to reduce cancellations and better manage occupancy.
