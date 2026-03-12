@@ -48,7 +48,7 @@ Bad: "Lead time has a positive correlation with cancellation"
 
 ## Visualizing the Story
 
-<!-- Embed your most compelling chart. Pick the ONE visual that best captures your main finding. -->
+![Room Price by Cancellation](room_price_by_cancellation.png)
 
 ![Description of your chart](your_chart_filename.png)
 
