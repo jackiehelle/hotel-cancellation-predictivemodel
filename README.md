@@ -14,7 +14,7 @@ This analysis uses the Hotel Booking Demand dataset, which includes information 
 
 - More than 1 in 3 Hotel Bookings End in Cancellation: Out of 119,390 reservations, roughly 37% were canceled, highlighting how common cancellations are and why predicting them is critical for protecting hotel revenue.
 - Guests Who Book Months Ahead Are More Likely to Cancel: Bookings made far in advance showed noticeably higher cancellation rates compared to reservations made closer to the stay date, suggesting long-term travel plans are more likely to change.
-- Guests Who Add Special Requests Are Less Likely to Cancel: Guests who included special requests—such as room preferences or amenities—were less likely to cancel their reservation, indicating that travelers who engage more with their booking tend to be more committed to their stay.
+- Guests Who Add Special Requests Are Less Likely to Cancel: Guests who included special requests, such as room preferences or amenities, were less likely to cancel their reservation, indicating that travelers who engage more with their booking tend to be more committed to their stay.
 - Budget Bookings Show Slightly Higher Cancellation Risk: Lower-priced reservations showed somewhat higher cancellation rates, suggesting that guests choosing cheaper or more flexible options may be less committed to their booking.
 
 ## Visualizing the Story
